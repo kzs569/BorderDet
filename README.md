@@ -4,7 +4,7 @@ This project provides an implementation for "BorderDet: Border Feature for Dense
 
 For the reason that experiments in the paper were conducted using internal framework, this project reimplements them on cvpods and reports detailed comparisons below.
 
-![introduce image](./playground/detection/coco/borderdet/intro/borderdet.pdf)
+![introduce image](./playground/detection/coco/borderdet/intro/borderdet.png)
 
 ## Requirements
 * Python >= 3.6
